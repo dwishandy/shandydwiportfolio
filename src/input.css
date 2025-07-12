@@ -8,7 +8,7 @@
   }
 
   body {
-    @apply bg-background text-foreground font-inter overflow-x-hidden;
+    @apply bg-background text-foreground font-inter;
   }
 
   /* Custom scrollbar */
